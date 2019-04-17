@@ -3,7 +3,7 @@ package fr.diginamic.fr.algorithmie;
 public class ComparaisonTableau {
 	
 	public static void main(String[] args){
-		//TODO trouver une façon propre proposition avec un break
+		//TODO trouver une façon propre proposition avec un break, ou tableau d'Integer
 	ComparaisonTableau comp = new ComparaisonTableau();
 	int[] array1 = {1, 15, -3, 8, 7, 4, -2, 28, -1, 17, 2, 3, 0, 14, -4} ;
 	int[] array2 = {3,1,1, -8, 17, 5, -1, 4, 0, 6, 2, 11, -5, -4, 8} ;
