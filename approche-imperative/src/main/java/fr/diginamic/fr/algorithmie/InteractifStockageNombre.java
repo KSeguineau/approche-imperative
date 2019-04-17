@@ -29,6 +29,8 @@ public class InteractifStockageNombre {
 			case 3:
 				sortir = true;
 				break;
+			default :
+				break;
 			}
 
 			
