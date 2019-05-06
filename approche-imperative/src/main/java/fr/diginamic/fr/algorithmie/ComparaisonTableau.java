@@ -25,7 +25,7 @@ public class ComparaisonTableau {
 				indDoublon++;
 			}
 		}
-	}
+	}   
 	System.out.println(elementCommun);
 	for(Integer valeur : doublon){
 		System.out.print(valeur + " ");
